@@ -1,3 +1,5 @@
+# store image data and tags to h5 file
+
 import cv2
 import json
 import h5py
