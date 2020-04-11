@@ -1,3 +1,4 @@
+#check whether a frame is in the server or not
 import os 
 
 file1  = os.listdir('/dresden/gpu2/yc984/ASL/grammar_marker/new_data/cropped_frame')
